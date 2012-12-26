@@ -1,0 +1,10 @@
+name: DistanceCalc
+main: com.nullblock.vemacs.DistanceCalc.DistanceCalc
+version: 1.0.0
+permissions:
+    DistanceCalc.calc:
+        description: Allows the use of the /distance command
+        default: true
+commands:
+    distance:
+        description: Allows the user to calculate their distance from spawn

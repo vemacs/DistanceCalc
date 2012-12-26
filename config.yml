@@ -1,0 +1,4 @@
+# workaround, server owner must supply spawn height
+# spawnheight must be enclosed in single quotes
+# the default value is 0, which is definitely not right
+spawnheight: 64
