@@ -21,7 +21,7 @@ Be sure to edit the `config.yml` to be your spawn's y-position. The Bukkit `getS
 Commands
 --------
 
-`/distance` reports to the player how far they are from spawn, in both 2d and 3d
+`/distance` reports to the player how far they are from spawn, in both 3-d and 2-d.
 
 Credits
 -------
