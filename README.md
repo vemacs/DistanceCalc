@@ -16,7 +16,7 @@ The permission `DistanceCalc.calc`, which should be given by default, allows the
 Configuration
 -------------
 
-Be sure to edit the `config.yml` to be your spawn`s y-position. The Bukkit getSpawnLocation doesn`t do this properly.
+Be sure to edit the `config.yml` to be your spawn's y-position. The Bukkit `getSpawnLocation()` function doesn't do this properly.
 
 Commands
 --------
